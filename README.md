@@ -11,7 +11,7 @@ Here's what's been developed so far.
 
 Our first priority is to complete the first five primers as laidout in the Roadmap linked below. Following that, we will be writing up Instructor Guides based off those primers.  You can see an example at the link to Instructor Guides above.
 
-If you'd like to see our current plan for development of this program, check out our [Roadmap] (/planning/ROADMAP.md). 
+If you'd like to see our current plan for development of this program, check out our [Roadmap](/planning/ROADMAP.md). 
 
 If you are looking for more information on Mozilla Science Lab, please see our [website](https://www.mozillascience.org/).
 

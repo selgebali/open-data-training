@@ -16,23 +16,23 @@ If you'd like to see our current plan for development of this program, check out
 If you are looking for more information on Mozilla Science Lab, please see our [website](https://www.mozillascience.org/).
 
 ## [Current Authors](#current-authors)
-* [Stephanie Wright] (https://github.com/stephwright), Program Lead, Mozilla Science Lab
-* [Zannah Marsh] (https://github.com/zee-moz), Learning Strategist, Mozilla Science Lab
+* [Stephanie Wright](https://github.com/stephwright), Program Lead, Mozilla Science Lab
+* [Zannah Marsh](https://github.com/zee-moz), Learning Strategist, Mozilla Science Lab
 
 Huge thanks to contributors from 2016 Global Sprint who aren't noted in GitHub because we were working in the Google Docs!
-* [Amel Ghouila] (https://github.com/amelgh)
-* [Dhafer Laouini] (https://github.com/Dhaferl)
-* [Fatma Guerfali] (https://github.com/FatmaZG)
-* [John Kratz] (https://github.com/JEK-III)
-* [Alexander Morley] (https://github.com/alexmorley)
-* [Matthew Marcello] (https://github.com/mmarcello)
+* [Amel Ghouila](https://github.com/amelgh)
+* [Dhafer Laouini](https://github.com/Dhaferl)
+* [Fatma Guerfali](https://github.com/FatmaZG)
+* [John Kratz](https://github.com/JEK-III)
+* [Alexander Morley](https://github.com/alexmorley)
+* [Matthew Marcello](https://github.com/mmarcello)
 * Natalie Foo
 * Katie Fortney
 * Stephanie Simms
-* [Siwar-BLK] (https://github.com/Siwar-BLK)
-* [zbouslama] (https://github.com/zbouslama)
+* [Siwar-BLK](https://github.com/Siwar-BLK)
+* [zbouslama](https://github.com/zbouslama)
 
-See also the list of [contributors] (https://github.com/mozillascience/open-data-training/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/mozillascience/open-data-training/graphs/contributors) who participated in this project.
 
 ## License
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)

@@ -1,4 +1,4 @@
-##CHALLENGES TO OPEN DATA AND HOW TO RESPOND
+## CHALLENGES TO OPEN DATA AND HOW TO RESPOND
 
 **“Someone may scoop me and find something interesting in it before I have a chance to publish it!”**  
 There are anecdotal stories of this but very little evidence of this happening in any significant way.  Regardless of how often it happens, by making your data open, accessible, and citable, you are publicly staking our claim of authorship for that data.  See the first reference link below for more thoughts on this <sup>(1)</sup>.  

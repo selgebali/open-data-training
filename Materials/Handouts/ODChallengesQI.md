@@ -27,7 +27,7 @@ If you are not the creator of the data for your research, you may not have the a
 **“It’s so confusing!  I don’t know where to start.”**  
 Start small with one or two steps, you don’t have to do it all at once.  Take a look at the DataONE Best Practices database <sup>(7)</sup> and see what you can incorporate into your practices now.
 
-####REFERENCES:
+#### REFERENCES:
 <a name="Ref1">1.</a> Stack Exchange thread on “scooping”: http://academia.stackexchange.com/questions/52016/an-example-of-a-researcher-being-scooped-as-a-result-of-working-openly  
 <a name="Ref2">2.</a> Piwowar HA, Day RS, Fridsma DB (2007) Sharing Detailed Research Data Is Associated with Increased Citation Rate. PLoS ONE 2(3): e308. https://doi.org/10.1371/journal.pone.0000308  
 3. Piwowar HA, Vision TJ. (2013) Data reuse and the open data citation advantage. PeerJ 1:e175 https://doi.org/10.7717/peerj.175  

@@ -39,7 +39,7 @@ Start small with one or two steps, you don’t have to do it all at once.  Take 
 <a name="Ref9">9.</a> UK Data Archive “Anonymization - Overview”: http://www.data-archive.ac.uk/create-manage/consent-ethics/anonymisation  
 10. ICPSR Guide to Social Science Data Preparation and Archiving Phase 5: Preparing Data for Sharing: https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter5.html  
 
-#####OPEN RESOURCES FOR MORE INFO:  
+##### OPEN RESOURCES FOR MORE INFO:  
 * Tenopir, C. et al. (2011) Data Sharing by Scientists: Practices and Perceptions. PLoS ONE 6(6): e21101. [doi:10.1371/journal.pone.0021101] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0021101)  
 * Wallis JC, Rolando E, Borgman CL (2013) If We Share Data, Will Anyone Use Them? Data Sharing and Reuse in the Long Tail of Science and Technology. PLoS ONE 8(7): e67332. [doi:10.1371/journal.pone.0067332] (https://doi.org/10.1371/journal.pone.0067332)  
 * Molloy JC (2011) The Open Knowledge Foundation: Open Data Means Better Science. PLoS Biol 9(12): e1001195. [doi:10.1371/journal.pbio.1001195] (http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001195)  

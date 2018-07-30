@@ -22,6 +22,9 @@ If you are looking for more information on Mozilla Science Lab, please see our [
 * [Danielle Robinson](https://github.com/daniellecrobinson), Mozilla Fellow for Science 2016-17, Scientific and Partnerships Director, Code for Science and Society
 * [Robin Champieux](https://github.com/rchampieux), Scholarly Communication Librarian, OHSU
 
+## Special Thanks
+to [Cynthia Tso](https://github.com/cynthiatso1), Web & Curriculum Development Intern, [UW iSchool](https://ischool.uw.edu/) for all her hard work updating these materials over the summer of 2018.
+
 Huge thanks to contributors from 2016 Global Sprint who aren't noted in GitHub because we were working in the Google Docs!
 * [Amel Ghouila](https://github.com/amelgh)
 * [Dhafer Laouini](https://github.com/Dhaferl)
